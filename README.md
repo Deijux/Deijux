@@ -1,4 +1,4 @@
-![Imagen banner user](./Banner-User.png)
+![Imagen banner user](./Banner-User-Github.png)
 # 💫 About Me:
 💻 I'm currently studying<br>👩‍💻 I love the Technology<br>🌐 Web Developer Student<br>🐶 I love the animals too
 
